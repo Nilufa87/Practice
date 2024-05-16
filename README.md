@@ -5,7 +5,9 @@
 ###Heading
 
 **this is normal text**
+
 _this is italic text_
+
 '''html
 <h1>Hello world</h1>
 ''''
