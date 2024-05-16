@@ -1,6 +1,5 @@
-<h1>Learning Git<h1>
+#Heading
 
-
-#heading
 ##heading
+
 ###heading
