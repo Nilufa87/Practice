@@ -1,3 +1,16 @@
+<htm1>
+   <body>
+  <p>
+    My name is nilufa Akter Boishakhi.
+</p>
+</body>
+
+
+</htm1>
+
+
+
+
 # Heading
 
 <h1>Nilufa</h1>
@@ -35,9 +48,9 @@ _this is italic text_
 6. Rimi
    
 
-![Nilufa Akter]
-(Screenshots/neature.png.png)
+| Name | Age |
+|-------|-----|
+|Nilufa akter | 21 |
 
- | Name | Age |
- |-------|-----|
- |Nilufa akter | 21 |
+
+![Nilufa Akter](C:\Users\HP\OneDrive\Pictures\WhatsApp Image 2023-12-31 at 19.33.42_51f29cab.jpg)
